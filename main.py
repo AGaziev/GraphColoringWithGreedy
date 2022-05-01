@@ -52,4 +52,3 @@ gMat2 = [
 g = Graph(10)
 g = graphInit(g, gMat2)
 print(g.colorNodes())
-print('{3: 0, 4: 0, 5: 1, 6: 2, 7: 1, 8: 1, 0: 0, 1: 2, 2: 0, 9: 2}')
