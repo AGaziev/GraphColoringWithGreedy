@@ -52,3 +52,4 @@ gMat2 = [
 g = Graph(10)
 g = graphInit(g, gMat2)
 print(g.colorNodes())
+
